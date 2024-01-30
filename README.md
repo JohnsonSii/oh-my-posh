@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/oh-my-posh]([https://draculatheme.com/oh-my-posh](https://ohmyposh.dev/docs/installation/customize)).
+All instructions can be found at [draculatheme.com/oh-my-posh](https://ohmyposh.dev/docs/installation/customize).
 
 ## Introduction
 
