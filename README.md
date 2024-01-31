@@ -2,7 +2,15 @@
 
 > A theme for [oh-my-posh](https://ohmyposh.dev/) ✨
 
+## Example
+
+### Swift Volt
+
 ![swift-volt](https://github.com/JohnsonSii/oh-my-posh/assets/67853082/79be3c0c-6205-461f-a4cc-1311b5e8aa3e)
+
+### Swift Volt Light
+
+![swift-volt-light](https://github.com/JohnsonSii/oh-my-posh/assets/67853082/52f2e48d-5a86-40cb-8ce9-6e8983105a6b)
 
 ## Install
 
